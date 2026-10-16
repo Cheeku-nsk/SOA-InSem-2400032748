@@ -1,0 +1,47 @@
+# Eclipse Workspace Metadata
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+
+# Build artifacts
+**/target/
+target/
+build/
+**/build/
+
+# Maven Wrapper binaries (optional to ignore jar, keep scripts)
+.mvn/wrapper/maven-wrapper.jar
+**/.mvn/wrapper/maven-wrapper.jar
+
+# IDE specific files
+.classpath
+.project
+.settings/
+.apt_generated
+.factorypath
+.springBeans
+.sts4-cache
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# VS Code
+.vscode/
+
+# OS specific files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local helper scripts
+powershell.cmd
+powershell.bat
